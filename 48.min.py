@@ -15,4 +15,4 @@ for x in range (1,490):
                     min=sum
                     danhsach=[(x,y,z)]
 
-print(f"{danhsach} với bộ nghiệm (x+y+z)={max}")
+print(f"{danhsach} với bộ nghiệm (x+y+z)={min}")
